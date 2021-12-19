@@ -1,1 +1,2 @@
-# CI-AppVeyor-HelloWorld
+# ContinuousIntegrationTest
+Testing out CI setup for a C++ project.
